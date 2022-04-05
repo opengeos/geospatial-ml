@@ -46,7 +46,7 @@ setup(
     long_description_content_type='text/markdown',
     include_package_data=True,
     keywords='geospatial_ml',
-    name='geospatial_ml',
+    name='geospatial-ml',
     packages=find_packages(include=['geospatial_ml', 'geospatial_ml.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
