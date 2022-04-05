@@ -1,4 +1,4 @@
 geospatial
 scikit-learn
-torchgeo
-verde
+# torchgeo
+# verde
