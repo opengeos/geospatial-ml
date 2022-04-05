@@ -8,7 +8,7 @@ labels: bug
 
 ### Environment Information
 
--   geospatial-ml version:
+-   geospatial_ml version:
 -   Python version:
 -   Operating System:
 

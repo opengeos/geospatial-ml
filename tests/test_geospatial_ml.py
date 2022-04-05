@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Tests for `geospatial-ml` package."""
+"""Tests for `geospatial_ml` package."""
 
 
 import unittest
@@ -8,8 +8,8 @@ import unittest
 from geospatial_ml import geospatial_ml
 
 
-class Testgeospatial_ml(unittest.TestCase):
-    """Tests for `geospatial-ml` package."""
+class TestGeospatial_ml(unittest.TestCase):
+    """Tests for `geospatial_ml` package."""
 
     def setUp(self):
         """Set up test fixtures, if any."""

@@ -1,1 +1,1 @@
-"""Unit test package for geospatial-ml."""
+"""Unit test package for geospatial_ml."""
