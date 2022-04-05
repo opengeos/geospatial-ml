@@ -1,4 +1,4 @@
  
 # geospatial-ml module
 
-::: geospatial-ml.geospatial-ml
+::: geospatial_ml.geospatial_ml
