@@ -5,10 +5,10 @@
 
 import unittest
 
-from geospatial-ml import geospatial-ml
+from geospatial_ml import geospatial_ml
 
 
-class Testgeospatial-ml(unittest.TestCase):
+class Testgeospatial_ml(unittest.TestCase):
     """Tests for `geospatial-ml` package."""
 
     def setUp(self):
