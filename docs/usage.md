@@ -3,5 +3,5 @@
 To use geospatial-ml in a project:
 
 ```
-import geospatial-ml
+import geospatial_ml
 ```

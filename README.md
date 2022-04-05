@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT license
--   Documentation: https://giswqs.github.io/geospatial-ml
+-   Documentation: https://ml.gishub.org
     
 
 ## Features
