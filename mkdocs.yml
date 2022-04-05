@@ -49,4 +49,4 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/giswqs/geospatial-ml/issues
     - API Reference:
-          - geospatial-ml module: geospatial-ml.md
+          - geospatial-ml module: geospatial_ml.md

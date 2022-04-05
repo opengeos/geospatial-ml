@@ -1,0 +1,4 @@
+geospatial
+scikit-learn
+torchgeo
+verde
