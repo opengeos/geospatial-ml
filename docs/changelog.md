@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.0 - Apr 15, 2022
+
+Added notebook examples.
+
 ## v0.0.6 - Apr 14, 2022
 
 Added the following packages.
