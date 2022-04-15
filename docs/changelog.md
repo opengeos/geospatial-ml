@@ -1,11 +1,22 @@
 # Changelog
 
-## v0.0.1 - Date
+## v0.0.6 - Apr 14, 2022
 
-**Improvement**:
+Added the following packages.
 
--   TBD
+-   geospatial
+-   keras
+-   localtileserver
+-   torch
+-   pytorch-lightning
+-   rasterio
+-   scikit-gstat
+-   scikit-learn
+-   scikit-plot
+-   tensorflow
+-   torchgeo
+-   verde
 
-**New Features**:
+## v0.0.1 - Apr 5, 2022
 
--   TBD
+Initial release.
