@@ -10,9 +10,9 @@
 [![image](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/c/QiushengWu)
 [![image](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
 
-**A collection of Python packages for geospatial analysis and machine learning.**
+**A Python package for installing commonly used packages for geospatial analysis and machine learning with only one command.**
 
--   Free software: MIT licensev
+-   Free software: MIT license
 -   Documentation: https://ml.gishub.org
 
 [![](https://i.imgur.com/Oklt4IB.png)](https://ml.gishub.org)
