@@ -8,4 +8,6 @@ coverage
 Sphinx
 twine
 grip
-
+black
+black[jupyter]
+codespell
