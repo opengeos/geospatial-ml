@@ -9,5 +9,5 @@ scikit-learn
 scikit-plot
 tensorflow
 torchgeo
-vaex; python_version >=3.9,<"3.10"
+vaex; python_version =3.9
 verde
