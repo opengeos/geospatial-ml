@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.2 - Apr 22, 2022
+
+Removed `vaex` because it does not support Python 3.10. Conda-forge recipe fails to build.
+
 ## v0.1.1 - Apr 18, 2022
 
 Added the following packages.
