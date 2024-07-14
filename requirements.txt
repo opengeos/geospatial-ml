@@ -1,7 +1,6 @@
 geospatial
 keras
 localtileserver
-torch
 pytorch-lightning
 rasterio
 scikit-gstat
@@ -9,6 +8,7 @@ scikit-learn
 scikit-plot
 segment-geospatial
 tensorflow
+torch
 torchgeo
 # vaex
 verde
