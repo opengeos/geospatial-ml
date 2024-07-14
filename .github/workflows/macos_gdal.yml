@@ -10,7 +10,7 @@ name: macOS build with GDAL
 jobs:
   test-macOS:
     runs-on: macos-latest
-    steps:   
+    steps:
         - uses: actions/checkout@v2
           with:
             submodules: recursive
@@ -25,7 +25,7 @@ jobs:
         #     GDAL_VER=$(find /usr/local/Cellar/gdal/  -name "lib" | awk -F"/" '{print $7}')
         #     GDAL_LDPATH=/usr/local/Cellar/gdal/$GDAL_VER/lib/
         #     export LIBRARY_PATH=$GDAL_LDPATH
-        #     echo $LIBRARY_PATH            
+        #     echo $LIBRARY_PATH
         # - name: Test GDAL installation
         #   run: |
         #     gdalinfo --version
@@ -35,7 +35,7 @@ jobs:
         #     pip3 install shapely --no-binary shapely
         #     brew install pkg-config
         #     export PKG_CONFIG_PATH=/usr/local/bin/pkgconfig
-        #     pip3 install cartopy  
+        #     pip3 install cartopy
         # - name: Install dependencies
         #   run: |
         #     python -m pip install --upgrade pip
